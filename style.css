@@ -2,8 +2,12 @@ body{
     background-image: url(NFL_logo.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .cím{
     padding-bottom: 1.25em;
+}
+.transparent{
+    opacity: 0.9;
 }
