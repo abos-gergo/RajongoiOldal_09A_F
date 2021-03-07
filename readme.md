@@ -1,1 +1,0 @@
-Rajongói oldal
